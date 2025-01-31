@@ -1,6 +1,7 @@
 {
   "buttons": {
     "cancel": "ביטול",
+    "clear": "נקה",
     "close": "סגירה",
     "copy": "העתקה",
     "copyFile": "העתק קובץ",
@@ -87,31 +88,6 @@
     "f1": "המידע הזה",
     "f2": "שינוי שם קובץ",
     "help": "עזרה"
-  },
-  "languages": {
-    "he": "עברית",
-    "hu": "Magyar",
-    "ar": "العربية",
-    "de": "Deutsch",
-    "en": "English",
-    "es": "Español",
-    "fr": "Français",
-    "is": "Icelandic",
-    "it": "Italiano",
-    "ja": "日本語",
-    "ko": "한국어",
-    "nlBE": "Dutch (Belgium)",
-    "pl": "Polski",
-    "pt": "Português",
-    "ptBR": "Português (Brasil)",
-    "ro": "Romanian",
-    "ru": "Русский",
-    "sk": "Slovenčina",
-    "svSE": "Swedish (Sweden)",
-    "tr": "Türkçe",
-    "ua": "Українська",
-    "zhCN": "中文 (简体)",
-    "zhTW": "中文 (繁體)"
   },
   "login": {
     "createAnAccount": "צור חשבון",
